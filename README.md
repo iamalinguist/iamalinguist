@@ -1,11 +1,76 @@
-# Hi, I'm a Linguist 👋🏾 👩🏾‍💻
 
-<img src="header.png" alt="banner that says I do Computation and Linguistics - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+![Sarah hart Landolt, software developer, artist](https://github.com/iamalinguist/iamalinguist/blob/76a77f6494d66520d58a8138b2c987ef0bbcb360/download.png)
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+### Hi there, I'm Linguist! 👋
+- 💃🏻 I'm a software developer, an abstract artist, and a former French teacher who is often wearing red lipstick (hence my logo) and drinking La Croix.
+- 🌱 I’m currently learning Android while sharpening my skills in C#, JavaScript, and React. 
+- 💻 Check out these two Apps that I built from scratch and am most proud of:
+     - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
+     - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
+- 📫 How to reach me: sarah.hart.landolt@gmail.com || [Dev Portfolio](https://sarah-hart-landolt.github.io/) || [Artist Site](https://www.sarahhartlandolt.com/)
+- 😄 Pronouns: She/Her
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<br/>
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+<br/>
+<br/>  
+
+
+
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>  
+
+<br/>  
+
+## Connect with me  
+<div align="center"><a href="https://www.linkedin.com/in/sarah-hart-landolt/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/sarah-hart-landolt" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sarahhartart" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sarah.hart.landolt" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+  
+
+<br/>  
+
+<!--
+**sarah-hart-landolt/sarah-hart-landolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I won "Best Hair" from my cohort at Nashville Software School due to my wild, untamable curly mane. 
+     - Developers.OrderBy(dev => dev.HairSize).Last())-->
