@@ -1,6 +1,6 @@
 
-![Sarah hart Landolt, software developer, artist](https://github.com/iamalinguist/iamalinguist/blob/76a77f6494d66520d58a8138b2c987ef0bbcb360/download.png)
-
+![Vivek Tripathi, computational linguist, artist]
+(https://github.com/iamalinguist/iamalinguist/blob/f641dc53be3057140ea69d6d95c2c2c8395140eb/header_image.png)
 
 ### Hi there, I'm Linguist! 👋
 - 💃🏻 I'm a software developer, an abstract artist, and a former French teacher who is often wearing red lipstick (hence my logo) and drinking La Croix.
