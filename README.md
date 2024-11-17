@@ -1,15 +1,13 @@
 
-![Vivek Tripathi, computational linguist, artist](https://github.com/iamalinguist/iamalinguist/blob/f641dc53be3057140ea69d6d95c2c2c8395140eb/header_image.png)
+![Vivek Tripathi, computational linguist, content creator](https://github.com/iamalinguist/iamalinguist/blob/f641dc53be3057140ea69d6d95c2c2c8395140eb/header_image.png)
 
 
 ### Hi there, I'm Linguist! 👋
-- 💃🏻 I'm a software developer, an abstract artist, and a former French teacher who is often wearing red lipstick (hence my logo) and drinking La Croix.
-- 🌱 I’m currently learning Android while sharpening my skills in C#, JavaScript, and React. 
-- 💻 Check out these two Apps that I built from scratch and am most proud of:
-     - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
-     - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
-- 📫 How to reach me: sarah.hart.landolt@gmail.com || [Dev Portfolio](https://sarah-hart-landolt.github.io/) || [Artist Site](https://www.sarahhartlandolt.com/)
-- 😄 Pronouns: She/Her
+- 💃🏻 I'm a linguist, an abstract (x) artist, and a former Hindi teacher who is often drinking Tea.
+- 🌱 I’m currently learning Python while sharpening my skills in web based technologies. 
+- 💻 Check out Parsers and web-apps that I built from scratch and am most proud of (check repositories).
+- 📫 How to reach me: sopan.tripathi@gmail.com || [Dev Portfolio](https://iamalinguist.github.io/) || [Academic Site](https://iamalinguist.web.app/)
+- 😄 Pronouns: Prabhu.🤪
 
 <br/>
 
