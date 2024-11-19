@@ -3,17 +3,17 @@
 
 
 ### Hi there, I'm Linguist! 👋
-- 💃🏻 I'm a linguist, an abstract x-artist, and a former Hindi teacher who is often drinking Tea.
+- 💃🏻 I'm a linguist, an abstract x-artist, and a former Hindi teacher who is often drinking Tulsi-Tea.
 - 🌱 I’m currently learning Python while sharpening my skills in web based technologies. 
-- 💻 Check out Parsers and web-apps that I built from scratch and am most proud of (check repositories).
-- 📫 How to reach me: sopan.tripathi@gmail.com || [Dev Portfolio](https://iamalinguist.github.io/) || [Academic Site](https://iamalinguist.web.app/)
+- 💻 Check out parsers and web-apps that I built from scratch and am most proud of (check repositories).
+- 📫 How to reach me: sopan.tripathi@gmail.com || [Dev+Acad Portfolio](https://iamalinguist.github.io/) ||
 - 😄 Pronouns: Prabhu.🤪
 
 <br/>
 
 
 ### Let's be productive👋
-- 🔭 I’m currently working on grammar and tools for SOV languages.
+- 🔭 I’m currently working on grammars and tools for multiple SOV languages.
 - 👯 I’m looking to collaborate on ML and NLP techniques.
   
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamalinguist&show_icons=true&theme=radical)
@@ -54,9 +54,6 @@
 <br/>  
 
 <!--
-**sarah-hart-landolt/sarah-hart-landolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
