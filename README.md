@@ -6,7 +6,7 @@
 - 💃🏻 I'm a linguist, an abstract x-artist, and a former Hindi teacher who is often drinking Tulsi-Tea.
 - 🌱 I’m currently learning Python while sharpening my skills in web based technologies. 
 - 💻 Check out parsers and web-apps that I built from scratch and am most proud of (check repositories).
-- 📫 How to reach me: sopan.tripathi at gmail dot com || [Dev+Acad Portfolio](https://iamalinguist.github.io/) ||
+- 📫 How to reach me: sopan.tripathi at gmail dot com || [Dev+Acad Portfolio](https://iamalinguist.web.app/) ||
 - 😄 Pronouns: Prabhu.🤪
 
 <br/>
