@@ -1,12 +1,12 @@
 
-![Vivek Tripathi, computational linguist, content creator](https://github.com/iamalinguist/iamalinguist/blob/f641dc53be3057140ea69d6d95c2c2c8395140eb/header_image.png)
+![Vivek Tripathi, computational linguist, YT content creator](https://github.com/iamalinguist/iamalinguist/blob/f641dc53be3057140ea69d6d95c2c2c8395140eb/header_image.png)
 
 
 ### Hi there, I'm Linguist! 👋
 - 💃🏻 I'm a linguist, an abstract x-artist, and a former Hindi teacher who is often drinking Tulsi-Tea.
 - 🌱 I’m currently learning Python while sharpening my skills in web based technologies. 
 - 💻 Check out parsers and web-apps that I built from scratch and am most proud of (check repositories).
-- 📫 How to reach me: sopan.tripathi@gmail.com || [Dev+Acad Portfolio](https://iamalinguist.github.io/) ||
+- 📫 How to reach me: sopan.tripathi at gmail dot com || [Dev+Acad Portfolio](https://iamalinguist.github.io/) ||
 - 😄 Pronouns: Prabhu.🤪
 
 <br/>
