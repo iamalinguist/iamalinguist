@@ -35,7 +35,7 @@
 <br/>
 
 ### Let's be productive👋
-- 🔭 I’m currently working on grammars and tools for multiple SOV languages.
+- 🔭 I’m currently working on different grammars and web-tools for multiple SOV languages.
 - 👯 I’m looking to collaborate on ML and NLP techniques.
 
 <!--
@@ -69,13 +69,14 @@
 | IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Literature |
 | AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Neural Network |
 
+
 <h1>📜 Certifications</h1>
 
 - [Applied Linguistics - Syntax and Semantics of a Language] Offered by different Universities, October 2024
 - [Natural Language Processing - NLP: Use Markov Models, NLTK, Artificial Intelligence, Deep Learning, Machine Learning, and Data Science in Python](https://www.udemy.com/course/natural-language-processing-in-python/learn/lecture/28889558) Offered by lazyprogrammer.me on Udemy, August 2023
 - Mathematics for Machine Learning Specialization- Linear Algebra, Calculus and Discreet (Some Topics) by different Faculties (universally), July 2022
 - Introduction to Python and Digital Humanities on Udemy, July 2021
-- [Plotting, Charting & Data Representation in Python](https://w) Offered by University of Michigan on Coursera, April 2015
+- Plotting, Charting & Data Representation in Python Offered by University of Michigan on Coursera, April 2015
 
 
 <!--
@@ -89,6 +90,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I won "Best Hair" from my cohort at Nashville Software School due to my wild, untamable curly mane. 
-     - Developers.OrderBy(dev => dev.HairSize).Last())
-- Took help from https://github.com/sharatsachin
+     - Took help from https://github.com/sharatsachin
 -->
