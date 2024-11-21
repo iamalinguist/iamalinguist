@@ -59,9 +59,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-<br/>  
 
-
+<br/>
+<br/>
 <h1>🎓 Academics</h1>
 
 | Institution | Degree | Year | Work Area |
@@ -70,7 +70,8 @@
 | IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Language |
 | AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Neural Network |
 
-
+<br/>
+<br/>
 <h1>📜 Courses/Certifications</h1>
 
 - [Applied Linguistics - Syntax Semantics of a Language]: Offered by different Universities, October <b>2024</b>
