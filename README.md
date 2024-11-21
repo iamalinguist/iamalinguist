@@ -67,17 +67,16 @@
 | Institution | Degree | Year | Work Area |
 |-------------|--------|------|-----------------|
 | IIT (BHU), Varanasi| PhD, Linguistics | 2020-2024 | Grammar - Syntax, Semantics|
-| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Literature |
+| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Language |
 | AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Neural Network |
 
 
-<h1>📜 Certifications</h1>
+<h1>📜 Courses/Certifications</h1>
 
-- [Applied Linguistics - Syntax and Semantics of a Language] Offered by different Universities, October 2024
-- [Natural Language Processing - NLP: Use Markov Models, NLTK, Artificial Intelligence, Deep Learning, Machine Learning, and Data Science in Python](https://www.udemy.com/course/natural-language-processing-in-python/learn/lecture/28889558) Offered by lazyprogrammer.me on Udemy, August 2023
-- Mathematics for Machine Learning Specialization- Linear Algebra, Calculus and Discreet (Some Topics) by different Faculties (universally), July 2022
-- Introduction to Python and Digital Humanities on Udemy, July 2021
-- Plotting, Charting & Data Representation in Python Offered by University of Michigan on Coursera, April 2015
+- [Applied Linguistics - Syntax Semantics of a Language]: Offered by different Universities, October <b>2024</b>
+- [Natural Language Processing - NLP: Use Markov Models, NLTK, Artificial Intelligence, Deep Learning, Machine Learning, and Data Science in Python]: Offered by lazyprogrammer.me on Udemy, August <b>2023</b>
+- [Mathematics for Machine Learning Specialization- Linear Algebra, Calculus and Discreet (Some Topics)]: Offered by different Faculties, July <b>2022</b>
+- [Introduction to Python and Digital Humanities]: Offered on Udemy, July <b>2021</b>
 
 
 <!--
