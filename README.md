@@ -63,9 +63,9 @@
 
 | Institution | Degree | Year | Work Area |
 |-------------|--------|------|-----------------|
-| IIT (BHU), Varanasi| PhD, Linguistics | 2020-2024 | Grammar |
-| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D |
-| AAU Anand | B.Tech | 2009-2013 | Data Science |
+| IIT (BHU), Varanasi| PhD, Linguistics | 2020-2024 | Grammar - Syntax, Semantics|
+| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Literature |
+| AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Neural Network |
 
 <h1>📜 Certifications</h1>
 
