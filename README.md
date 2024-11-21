@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
-    <a href="https://iamalinguist.web.app">
+    <a href="https://iamalinguist.github.io">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
     </a>
     <a href="https://www.linkedin.com/in/vivektripathiji/">
