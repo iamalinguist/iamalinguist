@@ -37,9 +37,11 @@
 ### Let's be productive👋
 - 🔭 I’m currently working on grammars and tools for multiple SOV languages.
 - 👯 I’m looking to collaborate on ML and NLP techniques.
-  
+
+<!--
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamalinguist&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamalinguist&show_icons=true&theme=radical)
+-->
 
 <br/>
 <br/>  
