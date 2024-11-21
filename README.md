@@ -31,17 +31,6 @@
 - ✅ Domains: Regression, Classification, NLP, Time Series, ML, Transformers
 - ✅ Industry skills: Linux, Git, Docker, LaTeX
   
-  <!--
-- ✅ Data Visualization/Analytics: Matplotlib, Seaborn, Plotly
-- ✅ Data Science: PyTorch, Scikit-learn, Hugging Face, OpenCV, NumPy, Pandas, NLTK, Dask
-- ✅ Algorithms, Data Structures: Dynamic Programming, Graph Theory, Trees, Arrays
-- ✅ Web Scraping: BeautifulSoup
-- ✅ Maths and Statistics: Statsmodels, SciPy
-- ✅ Data Engineering: SQL, PySpark, dbt
-- ✅ MLOps: MLflow
-- ✅ APIs: Flask, FastAPI
-- ✅ Cloud Platforms: GCP, AWS
--->
 
 <br/>
 
