@@ -20,17 +20,16 @@
 <h1>👨‍💻 About Me</h1>
 
 
-- 👋 I'm a linguist, an abstract x-artist, and a former Hindi teacher who is often drinking Tea.
-- 🌱 I’m currently learning Python while sharpening my skills in web based technologies. 
-- 💻 Check out parsers and web-apps that I built from scratch and am most proud of (check repositories).
+- 👋 I'm a linguist, an abstract x-artist, and a former Hindi teacher.
+- 🌱 I’m currently learning Python while sharpening my skills in NLP techniques.
+- 💻 Check out parsers that I built from scratch and am most proud of (check repositories).
 - I am/have worked in various fields and frameworks using concepts like:
 
 
   - ✅ Grammar: Transformation Grammar, Generalised Phrase Structure Grammar, Feature Description, Lexical Functional Grammar, Categorical Grammar, Head-driven Phrase Structure Grammar
   - ✅ Semantics: Formal Semantics, Semantic Structures, Logical Structures, Type Structures
-  - ✅ Algorithms: Trees, Arrays
   - ✅ Domains: Regression, Classification, NLP, Time Series, ML, Transformers
-  - ✅ Industry skills: Linux, Git, LaTeX
+  - ✅ Industry skills: LaTeX, Git
   
 <br/>
 
@@ -66,13 +65,13 @@
 
 | Institution | Degree | Year | Work Area |
 |-------------|--------|------|-----------------|
-| IIT (BHU), Varanasi| PhD, Linguistics | 2020-2024 | Grammar - Syntax, Semantics|
-| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Language |
-| AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Neural Network |
+| IIT (BHU), Varanasi| PhD, Linguistics | 2020-2025 | Grammar - Syntax, Semantics|
+| IIT Bombay| M.Tech, Geoinformatics| 2013–2015 | R&D - Web, Android, Image Processing |
+| AAU Anand | B.Tech | 2009-2013 | Data Science - Regression, Data Analyis, Agriculture |
 
 <br/>
 <br/>
-<h1>📜 Courses/Certifications</h1>
+<h1>📜 Courses</h1>
 
 - [Applied Linguistics - Syntax Semantics of a Language]: Offered by different Universities, October <b>2024</b>
 - [Natural Language Processing - NLP: Use Markov Models, NLTK, Artificial Intelligence, Deep Learning, Machine Learning, and Data Science in Python]: Offered by lazyprogrammer.me on Udemy, August <b>2023</b>
